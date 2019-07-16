@@ -15,24 +15,31 @@ HTML, CSS, PHP, jQuery, and MySQL.
 
 ## Screenshots:
 ![Figure 1](/images/f1.png)
-**Figure 1:** Full view of webpage.
-
+<br />
+**Figure 1:** Full view of webpage.<br />
+<br />
 ![Figure 2](/images/f2.png)
-**Figure 2:** Form drops down when "Admin Book Form" button is clicked. The Admin can add a new book through this form. 
-
-*(Note: the red shield icon at the end of the boxes is apart of an Avira extension I have for this browser, please ignore this.)*
-
+<br />
+**Figure 2:** Form drops down when "Admin Book Form" button is clicked. The Admin can add a new book through this form.
+<br />
+*(Note: the red shield icon at the end of the boxes is apart of an Avira extension I have for this browser, please ignore this.)*<br />
+<br />
 ![Figure 3](/images/f3.png)
-**Figure 3:** Form drops down when "Admin Author Form" button is clicked. The Admin can add new authors to the database through this form. The ISBN is a foreign key in the AUTHORS table. It is used to add the authorID to the correct column of the BOOKS table.
-
+<br />
+**Figure 3:** Form drops down when "Admin Author Form" button is clicked. The Admin can add new authors to the database through this form. The ISBN is a foreign key in the AUTHORS table. It is used to add the authorID to the correct column of the BOOKS table.<br />
+<br />
 ![Figure 4](/images/f4.png)
-**Figure 4:** After submitting either the Admin Book Form or Admin Author Form, an alert box will pop up letting the Admin know if it was successful or if it failed.
-
+<br />
+**Figure 4:** After submitting either the Admin Book Form or Admin Author Form, an alert box will pop up letting the Admin know if it was successful or if it failed.<br />
+<br />
 ![Figure 5](/images/f5.png)
-**Figure 5:** A query for the entire BOOKS Table.
-
+<br />
+**Figure 5:** A query for the entire BOOKS Table.<br />
+<br />
 ![Figure 6](/images/f6.png)
-**Figure 6:** A query for the entire AUTHORS Table.
-
+<br />
+**Figure 6:** A query for the entire AUTHORS Table.<br />
+<br />
 ![Figure 7](/images/f7.png)
+<br />
 **Figure 7:** The ISBN Query shows all the authors for a given ISBN. This is to show that multiple authors are allowed per book.
