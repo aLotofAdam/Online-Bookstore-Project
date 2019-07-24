@@ -1,5 +1,5 @@
 # Online-Bookstore-Project
-Proof-of-concept online bookstore with a simple webpage interface
+Proof-of-concept online bookstore web application. Uses a simple webpage interface to query and insert data into the database.
 
 ## About This Project:
 This was my final project for my relational database class. It had been years since I last used HTML and CSS, so I had to refresh my knowledge on those skills. I wrote the CSS as an internal stylesheet; I am now aware that this is bad practice. I had never used PHP or jQuery before, so I had to learn the basics in order to write my server-side code. I used XAMPP to create a local web server to test my code.
